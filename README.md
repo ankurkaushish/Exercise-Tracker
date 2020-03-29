@@ -9,3 +9,8 @@ TO run this Project you need to run 2 commands :
 
 Thanks alot
 Hope you Liked it :)
+
+
+******IMPORTANT******
+Please ignore the backend file. The actual backend folder is backends folder. Rename backends into backend and delete backend file.
+Moreover install node_modules into new backend folder by just running command npm install.
